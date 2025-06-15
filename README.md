@@ -21,7 +21,7 @@ NOTE: I have not yet Identified how to add the function for Check and Checkmate.
 ---
 # How To Play? 🚀
 No Complex Setup is Required!
-1. Clone the Repository to your local machine:  using **git clone https://github.com/GarvS2071/Chess-Game.git**
+1. Clone the Repository to your local machine:  using `git clone https://github.com/GarvS2071/Chess-Game.git`
 2. Navigate to the project Directory.
 3. Open the index.html file in your browser.
 That's it!   The game will load and you can start playing immediately.
